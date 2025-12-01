@@ -1,6 +1,5 @@
 # ddsp_vmap_tubescreamer_noninv
 ```python
-```python
 # =============================================================================
 # ddsp_vmap_tubescreamer_noninv.py
 #
